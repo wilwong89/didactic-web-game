@@ -1,0 +1,31 @@
+.wholeScreen {
+  background: black;
+  overflow: hidden;
+  width: 80vw;
+  height: 80vh;
+  border: 3px solid red;  
+}
+.mainDisplay {
+  border: 3px solid blue;
+  overflow: hidden;
+  width: 57vw;
+  height: 60vh;
+  vertical-align: top;
+}
+.rightSideBar {
+  background: grey;
+  border: 3px solid green;
+  width: 20vw;
+  height: 60vh;
+  vertical-align: top;
+}
+.bottomBar{
+  background: grey;
+  border: 3px solid yellow;
+  width: 77vw;
+  height: 20vh;
+}
+.inblock {
+  
+  display: inline-block;
+}

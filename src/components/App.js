@@ -23,5 +23,5 @@ class App extends React.Component {
     )
   }
 }
-
+//<Router history={browserHistory} children={this.props.routes} />
 export default App
