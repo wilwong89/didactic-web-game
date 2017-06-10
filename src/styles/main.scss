@@ -9,13 +9,17 @@ html {
 
 html,
 body {
-  margin: 0;
-  padding: 0;
+  margin: auto;
   height: 100%;
+  //min-width: 1000px;
 }
 
 *,
 *:before,
 *:after {
   box-sizing: inherit;
+}
+
+.tc {
+  text-align: center;
 }

@@ -3,7 +3,7 @@ import MemeImage from '../assets/KasumiDisgust.png'
 import './HomeView2.scss'
 
 export const HomeView2 = () => (
-  <div className='wholeScreen container text-center'>
+  <div className='wholeScreen'>
     <div className=''>
       <div className='mainDisplay inblock'>
         <img src={MemeImage} />
